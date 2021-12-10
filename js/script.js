@@ -14,6 +14,20 @@ for (let i = 1; i <=100; i++) {
     }
 }
 
+//MILESTONE 2:
+
+// creo una costante per il mio container html
+
+// ripropongo il ciclo for ma questa volta per stampare nel DOM
+
+/*Se i miei numeri sono multipli sia di 3 che di 5,
+attraverso l'aggiunta di un elemento Html stampa FizzBuzz*/
+
+/*Se i miei numeri sono multipli solo di 3,
+attraverso l'aggiunta di un elemento Html stampa Fizz*/
+
+/*Se i miei numeri sono multipli solo di 5,
+attraverso l'aggiunta di un elemento Html stampa Buzz*/
 
 
 
